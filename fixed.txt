@@ -3,3 +3,4 @@ This is a Fix file used to fix bugs
 First bug detected and fixed
 
 second bug found and fixed
+second bug fixed after checkout to bug-fix 
