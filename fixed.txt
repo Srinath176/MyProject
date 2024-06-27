@@ -4,3 +4,5 @@ First bug detected and fixed
 
 second bug found and fixed
 second bug fixed after checkout to bug-fix 
+
+successfully added pink mode master
