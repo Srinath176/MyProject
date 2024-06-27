@@ -6,3 +6,5 @@ second bug found and fixed
 second bug fixed after checkout to bug-fix 
 
 successfully added pink mode master
+
+another branch green mode added
